@@ -1,3 +1,4 @@
 # odin-recipes
 
-It's a little project for basic HTML and practicing git and github for the first time.  
+It's a little project about recipes.
+A simple project for practing basic HTML, git,and github.  
